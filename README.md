@@ -1,6 +1,10 @@
 <img src="image1.png" alt="abhi image" width="100%" />
 
-# Hello everyone!, I'm ABHISHEK HUBBALLI, a Web Developer  and a data analyst with knowledge of machine learing, MERN stack and AI 👋🏼:
+## Hello everyone!, I'm ABHISHEK HUBBALLI 👋🏼:
+
+<br>
+[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
+
 🛜 my website[webpage](https://linktr.ee/abhishek0806)<br>👨🏼‍🎓Aspiring
 to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼‍💻Innovative computer science engineer  <br><i>abhishekhubballi0806@gmail.com</i>
 
@@ -45,7 +49,6 @@ to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekhubballi0806@gmail.com)
 
 💻 Happy Coding!
-[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
 
 
 

@@ -2,11 +2,12 @@
 
 ## Hello everyone!, I'm ABHISHEK HUBBALLI 👋🏼:
 
-<br>
-[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
+
 
 🛜 my website[webpage](https://linktr.ee/abhishek0806)<br>👨🏼‍🎓Aspiring
 to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼‍💻Innovative computer science engineer  <br><i>abhishekhubballi0806@gmail.com</i>
+
+[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 

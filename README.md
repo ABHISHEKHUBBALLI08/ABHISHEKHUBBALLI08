@@ -1,4 +1,4 @@
-<img src="image1.png" alt="abhi image" width="100%" height="600px" />
+<img src="image1.png" alt="abhi image" width="80%" height="800px" />
 
 ## Hello everyone!, I'm ABHISHEK HUBBALLI 👋🏼:
 

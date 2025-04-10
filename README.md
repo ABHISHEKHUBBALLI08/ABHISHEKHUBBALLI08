@@ -9,11 +9,10 @@ to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼
 
 [![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as a **Full Stack Developer Intern at NayePankh Foundation**
-- 🎓 Final-year CSE student passionate about **Web Development, AI, and Data Science**
-- 🌱 I’m currently learning **MongoDB, AI-driven applications, and advanced React**
+- 🔭 I’m currently working as a **Full Stack Developer Intern at X-workz **
+- 🎓 Final-year CSE student passionate about **Web Development, Data analyst and AI.**
+- 🌱 I’m currently learning **MongoDB, AI-driven applicationsand java Full stack**
 - 🚀 Participating in hackathons like **Vultr Cloud Innovate Hackathon & i.mobilothon 4.0**
 - 💡 Exploring innovative projects like **AI-driven smart cars & crop yield prediction models**
 - 👨‍💻 My recent projects include **Namma Agri (AI-based Crop Yield Prediction)** and **ChatsApp (React Chat App)**
@@ -28,8 +27,6 @@ to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### 📈 GitHub Stats

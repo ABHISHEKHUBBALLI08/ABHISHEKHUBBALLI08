@@ -4,15 +4,14 @@
 
 
 
-🛜 my website[webpage](https://linktr.ee/abhishek0806)<br>👨🏼‍🎓Aspiring
-to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼‍💻Innovative computer science engineer  <br><i>abhishekhubballi0806@gmail.com</i>
+🛜 my website[webpage](https://linktr.ee/abhishek0806)<br>👨🏼‍💻Innovative computer science engineer  <br><i>abhishekhubballi0806@gmail.com</i>
 
 [![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
 
 
 - 🔭 I’m currently working as a **Full Stack Developer Intern at X-workz **
 - 🎓 Final-year CSE student passionate about **Web Development, Data analyst and AI.**
-- 🌱 I’m currently learning **MongoDB, AI-driven applicationsand java Full stack**
+- 🌱 I’m currently learning **MongoDB, AI-driven applications and java Full stack**
 - 🚀 Participating in hackathons like **Vultr Cloud Innovate Hackathon & i.mobilothon 4.0**
 - 💡 Exploring innovative projects like **AI-driven smart cars & crop yield prediction models**
 - 👨‍💻 My recent projects include **Namma Agri (AI-based Crop Yield Prediction)** and **ChatsApp (React Chat App)**
@@ -40,7 +39,6 @@ to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼
 ### 🏆 Hackathon & Achievements
 - 🌟 **Infosys Springboard Ideathon 2024** – Certified participant
 - 🚀 **i.mobilothon 4.0 Hackathon** – Developing AI-driven mobility solutions
-- 🌾 **Vultr Cloud Innovate Hackathon** – AI-based agriculture solutions
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-hubballi-05138024a/)
@@ -49,10 +47,4 @@ to contribute to Software Engineer’s role by leveraging my skills <br>👨🏼
 💻 Happy Coding!
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 

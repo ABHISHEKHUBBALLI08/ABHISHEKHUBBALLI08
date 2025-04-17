@@ -1,4 +1,4 @@
-<img src="image1.png" alt="abhi image" width="80%" height="700px" />
+<img src="WhatsApp Image 2025-04-16 at 18.49.34.jpeg" alt="abhi image" width="80%" height="700px" />
 
 ## Hello everyone!, I'm ABHISHEK HUBBALLI 👋🏼:
 

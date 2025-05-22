@@ -29,7 +29,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### 📈 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKHUBBALLI08&show_icons=true&theme=radical)
 
 ### 📌 Featured Projects
 - 🏆 **Driver Drowsiness Detection** – AI-powered safety system using OpenCV & FER library

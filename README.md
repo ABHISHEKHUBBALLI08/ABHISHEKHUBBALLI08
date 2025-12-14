@@ -6,7 +6,7 @@
 👨🏼‍💻 **Java Backend & Full Stack Developer (Graduate)**  
 <i>abhishekhubballi0806@gmail.com</i>
 
-[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IDT7oqMo8TjcyEqBNdATBe20RPYnqOO0/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1EiBB_ekJYOip4Yl16XUWiOxg9bsMZFFT/view?usp=drivesdk )
 
 ---
 
